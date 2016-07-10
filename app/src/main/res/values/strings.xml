@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ImageMemoryGame</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flickr_key">2d2547106fc661f96259ba3ecb3ec957</string>
+    <string name="flickr_secret">c3454f18c992e15f</string>
+    <string name="information">9 Images will be displayed for 15 seconds you have to guess the position of the image in next screen. GoodLuck</string>
+    <string name="click_on_the_correct_position_of_grid">Click on the correct Position of Grid</string>
+    <string name="winning_message">Congratulations! You have Won</string>
+    <string name="unabletocontinue">We are unable to continue your game, Please start again</string>
+    <string name="nointernetconnectionerror">No Internet Connection</string>
+    <string name="genricerromessage"> Something went wrong</string>
+    <string name="playagain"> You Won! Do You want to Play Again</string>
+    <string name="exitwarning"> Do you really want to Exit this awsome Game :( Game</string>
+</resources>
